@@ -1,0 +1,18 @@
+[package]
+name = "test"
+version = "1.0.0"
+description = "This is a test program"
+authors = ["dude"]
+repository = "https://github.com/KremerMichael/sol-test"
+
+
+[features]
+exclude_entrypoint = []
+
+[dependencies]
+solana-program = "1.7.4"
+
+[dev-dependencies]
+
+[lib]
+crate-type = ["cdylib", "lib"]
