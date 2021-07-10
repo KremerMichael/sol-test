@@ -2,7 +2,7 @@
 
 
 use solana_program::{
-    account_info:AccountInfo,
+    account_info::AccountInfo,
     entrypoint,
     entrypoint::ProgramResult,
     pubkey::Pubkey,
@@ -22,7 +22,7 @@ pub fn process_instruction(
     instruction_data: &[u8],
 ) -> ProgramResult {
     // Call processor on instruciton
-    crate::processor:process(program_id, accounts, instruction_data)
+    crate::processor::process(program_id, accounts, instruction_data)
 
     // Does this mean success???
     // Ok(()) // maybe don't need this, not doing a token?

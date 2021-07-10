@@ -1,0 +1,10 @@
+/home/kremerme/sol-test/target/release/deps/borsh_schema_derive_internal-e324dd6378d6f1ed.rmeta: /home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.9.0/src/lib.rs /home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.9.0/src/helpers.rs /home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.9.0/src/enum_schema.rs /home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.9.0/src/struct_schema.rs
+
+/home/kremerme/sol-test/target/release/deps/libborsh_schema_derive_internal-e324dd6378d6f1ed.rlib: /home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.9.0/src/lib.rs /home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.9.0/src/helpers.rs /home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.9.0/src/enum_schema.rs /home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.9.0/src/struct_schema.rs
+
+/home/kremerme/sol-test/target/release/deps/borsh_schema_derive_internal-e324dd6378d6f1ed.d: /home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.9.0/src/lib.rs /home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.9.0/src/helpers.rs /home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.9.0/src/enum_schema.rs /home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.9.0/src/struct_schema.rs
+
+/home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.9.0/src/lib.rs:
+/home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.9.0/src/helpers.rs:
+/home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.9.0/src/enum_schema.rs:
+/home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.9.0/src/struct_schema.rs:

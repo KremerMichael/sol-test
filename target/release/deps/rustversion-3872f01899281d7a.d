@@ -1,0 +1,19 @@
+/home/kremerme/sol-test/target/release/deps/librustversion-3872f01899281d7a.so: /home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/lib.rs /home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/attr.rs /home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/bound.rs /home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/constfn.rs /home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/date.rs /home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/error.rs /home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/expr.rs /home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/iter.rs /home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/release.rs /home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/time.rs /home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/token.rs /home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/version.rs /home/kremerme/sol-test/target/release/build/rustversion-09ccffe29a267c1c/out/version.rs
+
+/home/kremerme/sol-test/target/release/deps/rustversion-3872f01899281d7a.d: /home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/lib.rs /home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/attr.rs /home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/bound.rs /home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/constfn.rs /home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/date.rs /home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/error.rs /home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/expr.rs /home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/iter.rs /home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/release.rs /home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/time.rs /home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/token.rs /home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/version.rs /home/kremerme/sol-test/target/release/build/rustversion-09ccffe29a267c1c/out/version.rs
+
+/home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/lib.rs:
+/home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/attr.rs:
+/home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/bound.rs:
+/home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/constfn.rs:
+/home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/date.rs:
+/home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/error.rs:
+/home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/expr.rs:
+/home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/iter.rs:
+/home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/release.rs:
+/home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/time.rs:
+/home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/token.rs:
+/home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/version.rs:
+/home/kremerme/sol-test/target/release/build/rustversion-09ccffe29a267c1c/out/version.rs:
+
+# env-dep:OUT_DIR=/home/kremerme/sol-test/target/release/build/rustversion-09ccffe29a267c1c/out

@@ -64,7 +64,7 @@ impl Processor {
 
 
     // Process any give instruction
-    pub fn process(program_id: &Pubkey, accounts: &[AccountInfo], input &[u8] -> ProgramResutl {
+    pub fn process(program_id: &Pubkey, accounts: &[AccountInfo], input &[u8] -> ProgramResult {
         // extract instruction from input
         let instruction = TokenInstruction::unpack(input)?;
 

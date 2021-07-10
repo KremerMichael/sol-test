@@ -1,0 +1,12 @@
+/home/kremerme/sol-test/target/bpfel-unknown-unknown/release/deps/borsh-c8ddd5f574ae1f9d.rmeta: /home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.0/src/lib.rs /home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.0/src/de/mod.rs /home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.0/src/de/hint.rs /home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.0/src/schema.rs /home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.0/src/schema_helpers.rs /home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.0/src/ser/mod.rs
+
+/home/kremerme/sol-test/target/bpfel-unknown-unknown/release/deps/libborsh-c8ddd5f574ae1f9d.rlib: /home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.0/src/lib.rs /home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.0/src/de/mod.rs /home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.0/src/de/hint.rs /home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.0/src/schema.rs /home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.0/src/schema_helpers.rs /home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.0/src/ser/mod.rs
+
+/home/kremerme/sol-test/target/bpfel-unknown-unknown/release/deps/borsh-c8ddd5f574ae1f9d.d: /home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.0/src/lib.rs /home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.0/src/de/mod.rs /home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.0/src/de/hint.rs /home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.0/src/schema.rs /home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.0/src/schema_helpers.rs /home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.0/src/ser/mod.rs
+
+/home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.0/src/lib.rs:
+/home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.0/src/de/mod.rs:
+/home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.0/src/de/hint.rs:
+/home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.0/src/schema.rs:
+/home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.0/src/schema_helpers.rs:
+/home/kremerme/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.0/src/ser/mod.rs:
